@@ -8,7 +8,8 @@
 - [定位/实时定位](#实时定位) :heavy_check_mark:
 - [JSbridge桥接原生app](#JSbridge桥接原生app) :heavy_check_mark:
 
-## 人脸识别 :art:
+## 人脸识别
+:art:
 
 > 采用了[tracking.js](https://trackingjs.com/) 技术  
 > 该功能兼容**ios浏览器** 和 **安卓浏览器**
@@ -113,7 +114,8 @@ getCompetence() {
 
 ```
 
-## 实时定位 :art:
+## 实时定位
+ :art:
 
 > 采用 [腾讯定位webjs](https://lbs.qq.com/service/webService/webServiceGuide/webServiceOverview)
 
@@ -165,7 +167,8 @@ initMap() {
 
 ```
 
-## JSbridge桥接原生app :art:
+## JSbridge桥接原生app
+ :art:
 
 ### 使用方法
 
